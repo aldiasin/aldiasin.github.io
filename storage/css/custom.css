@@ -51,7 +51,7 @@
         position: absolute;
         height: 100%;
         width: 100%;
-        background: #eceff0;
+        background: white;
         -webkit-backface-visibility: hidden;
         backface-visibility: hidden;
         border-radius: 2px;
@@ -128,7 +128,7 @@
         padding: 0 34px;
         display: block;
         line-height: 125px;
-        color: #fff;
+        color: orange;
         font-size: 50px;
 	text-align:center;
         opacity: 1;

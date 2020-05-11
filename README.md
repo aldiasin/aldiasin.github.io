@@ -1,12 +1,8 @@
-# Flip-Card-Responsive-Website
-This is a simple template for personal / profile page
-- Using CSS3
-- No Javascripts
-- Very Light and beautiful template
+# Kartu Nama
+Hanya kartu nama, itu saja.
+- Tentu pakai CSS
+- Tanpa JS
 
-
-
-# Reference
+# Referensi
 - Icons (https://fontawesome.com/)
 - Bootstrap Grid CSS (https://github.com/dmhendricks/bootstrap-grid-css)
-- AvatarMaker (https://avatarmaker.com/)

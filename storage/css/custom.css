@@ -1,10 +1,10 @@
  @import url('https://fonts.googleapis.com/css?family=Mali');
 	*{margin:0;padding:0;}
     .bg-color1{
-    	background: #ffcc66;
+    	background: orange;
     }
     .text-color1{
-    	color:#ffcc66;
+    	color: orange;
     }
     body {
         color: #222;
@@ -59,7 +59,7 @@
 
     .mykh-card .back-card {
         background: #222;
-        color: #FFF;
+        color: orange;
         -webkit-transform: rotateY(180deg);
         transform: rotateY(180deg);
     }
@@ -100,7 +100,7 @@
         border-radius:
     }
     .title_1{
-        color: #16a085;
+        color: orange;
         font-size: 40px;
     }
     .heading{

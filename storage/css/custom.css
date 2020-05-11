@@ -58,8 +58,8 @@
     }
 
     .mykh-card .back-card {
-        background: #222;
-        color: orange;
+        background: orange;
+        color: #eceff0;
         -webkit-transform: rotateY(180deg);
         transform: rotateY(180deg);
     }
@@ -93,7 +93,7 @@
         height: 100px;
         overflow: hidden;
         border-radius: 10px;
-        border:5px solid #16a085;
+        border:5px solid orange;
     }
     .ava-picture img{
         width: 100px;
@@ -104,7 +104,7 @@
         font-size: 40px;
     }
     .heading{
-        border-bottom: 3px solid #16a085;
+        border-bottom: 3px solid orange;
         margin: 20px;
         padding-bottom: 20px;
     }
